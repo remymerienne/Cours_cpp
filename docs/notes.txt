@@ -1,0 +1,41 @@
+NOTES
+=====
+
+Git Flow :
+----------
+Main : Branche de distribution
+Develop : Branche de développement
+Feature : Développement de fonctionnalité
+Hotfix : Correction de bug critique
+Release : Préparation de version
+Support : Maintenance de version passée
+
+Extra :
+-------
+Chore : Autres tâches
+Experiment : Test de fonctionnalité ou autre...
+
+*********************************************************************
+
+Compliler le programme avec le dernière version de C++ :
+--------------------------------------------------------
+g++ -std=c++2a -Wall -Wextra -Werror variables.cpp -o variables
+g++ -std=c++2a -Wall -Wextra -Werror saisie_utilisateur.cpp -o saisie_utilisateur
+g++ -std=c++2a -Wall -Wextra -Werror operateurs.cpp -o operateurs
+
+A faire :
+---------
+Regarder la vidéo pour en apprendre plus sur la compilation.
+
+*********************************************************************
+
+Commande VSCode :
+-----------------
+COM + k + c = commentaire
+COM + k + u = décommenter
+
+*********************************************************************
+
+Home brew + git + gcc
+
+*********************************************************************
