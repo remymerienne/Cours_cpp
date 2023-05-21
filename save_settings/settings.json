@@ -1,0 +1,46 @@
+// Config-VSC-Rémy Merienne
+{
+  // Selection du theme One Dark Pro
+  "workbench.colorTheme": "One Dark Pro",
+
+  // Définition du pack icons
+  "workbench.iconTheme": "material-icon-theme",
+
+  // Masquer la page d'accueil VSCode
+  "workbench.startupEditor": "none",
+
+  // Customisation des couleurs de VSCode
+  "workbench.colorCustomizations": {
+    "[One Dark Pro]": {
+      "editor.background": "#0d0d0d",
+      "sideBar.background": "#0d0d0d",
+      "activityBar.background": "#0d0d0d",
+      "editorGroupHeader.tabsBackground": "#0d0d0d",
+      "titleBar.activeBackground": "#0d0d0d",
+      "statusBar.background": "#0d0d0d",
+      "terminal.background": "#0d0d0d",
+      "list.focusHighlightForeground": "#00EEFF",
+      "list.activeSelectionForeground": "#00EEFF",
+      "tab.activeBackground": "#7a1571",
+      "tab.hoverBackground": "#244e24"
+    }
+  },
+
+  // Sauvegarde au changement de focus
+  "files.autoSave": "onFocusChange",
+
+  // Réglages généraux de l'éditeur
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.detectIndentation": false,
+  "editor.minimap.enabled": true,
+  "editor.accessibilitySupport": "off",
+  "editor.linkedEditing": true,
+
+  "git.confirmSync": false,
+
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "explorer.confirmDragAndDrop": true
+}
