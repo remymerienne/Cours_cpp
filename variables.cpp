@@ -2,16 +2,6 @@
 #include <string>
 
 /*
-  std::cout : affichage standard (en mémoire tampon)
-  std::cerr : erreurs (affichage direct)
-  std::clog : journalisation (en mémoire tampon)
-
-  std::enl : retour à la ligne (\n) + flush
-  std::flush : flush seul
-
-  \n : retour à la ligne
-  \t : tabulation
-  \\ : afficher un antislash
 
   Les principaux suffixes :
   -------------------------

@@ -43,4 +43,5 @@
   "security.workspace.trust.untrustedFiles": "open",
 
   "explorer.confirmDragAndDrop": true
+  
 }

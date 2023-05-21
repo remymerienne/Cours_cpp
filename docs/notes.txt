@@ -15,13 +15,15 @@ Extra :
 Chore : Autres tâches
 Experiment : Test de fonctionnalité ou autre...
 
+Link :
+------
+https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
+
 *********************************************************************
 
-Compliler le programme avec le dernière version de C++ :
+Compliler le programme avec la dernière version de C++ :
 --------------------------------------------------------
-g++ -std=c++2a -Wall -Wextra -Werror variables.cpp -o variables
-g++ -std=c++2a -Wall -Wextra -Werror saisie_utilisateur.cpp -o saisie_utilisateur
-g++ -std=c++2a -Wall -Wextra -Werror operateurs.cpp -o operateurs
+g++ -std=c++17 -Wall -Wextra -Werror main.cpp -o main
 
 A faire :
 ---------
