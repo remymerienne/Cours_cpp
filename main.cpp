@@ -100,7 +100,6 @@ int main()
 
     Voir aussi après :
     ------------------
-    std::cin.ingnore()
     std::ws
   */
 
@@ -112,6 +111,9 @@ int main()
   // Capture du retour chariot (flush de sortie)
   std::string mon_nom_complet;
   std::getline(std::cin, mon_nom_complet);
+
+  // ou
+  // std::cin.ignore(255, '\n');
 
   // Saisie d'une chaine de caractères
   std::cout << "Entrez votre nom complet : ";
