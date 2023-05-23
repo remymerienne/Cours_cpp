@@ -1,7 +1,6 @@
 /*
-  MENU :
-  ------
   #1. Affichage console et sorties standards
+  #2. Les variables
 */
 
 /*
@@ -24,7 +23,7 @@ int main()
     std::cerr : erreurs (affichage direct)
     std::clog : journalisation (en mémoire tampon)
 
-    std::enl : retour à la ligne (\n) + flush
+    std::endl : retour à la ligne (\n) + flush
     std::flush : flush seul (vidange tampon)
 
     \n : retour à la ligne
@@ -33,6 +32,8 @@ int main()
   */
  
   std::cout << "\nHello world !\n" << std::endl;
+
+  // #2. Les variables
 
   // Fin de notre fonction principale
   return 0;

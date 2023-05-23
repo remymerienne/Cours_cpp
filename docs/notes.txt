@@ -41,3 +41,5 @@ COM + k + u = décommenter
 Home brew + git + gcc
 
 *********************************************************************
+
+https://www.youtube.com/watch?v=f3UVQPbw32w&list=PLrSOXFDHBtfFKOzlm5iCBeXDTLxXdmxpx

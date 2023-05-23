@@ -30,7 +30,7 @@ int main()
   // Déclaration d'une variable de type entier par défaut
   float my_float{};
 
-  // Initialisation d'une variable de typde int
+  // Initialisation d'une variable de type int
   int my_int{1979l};
 
   // Laisser le compilateur analyser le type de variable
