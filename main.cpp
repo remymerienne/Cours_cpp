@@ -152,14 +152,23 @@ int main()
     // #5. Les conditions
     // ******************
 
+    int number_2{7000};
 
+    if(number_2 >= 0 && number_2<3000)
+    {
+        std::cout << number_2 << " est supérieur ou égal à 0 mais inférieur à 3000" << std::endl;
+    }
+    else if(number_2 == 6000)
+    {
+        std::cout << number_2 << " est strictement égal à 6000" << std::endl;
+    }
+    else
+    {
+        std::cout << number_2 << " est supérieur à 6000" << std::endl;
+    }
 
-
-
-
-
-
-    // End
-    // ***
+    // ************************************************************************
     return 0;
+    // End
+    
 }
