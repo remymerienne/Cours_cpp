@@ -23,7 +23,7 @@ https://www.atlassian.com/fr/git/tutorials/comparing-workflows/gitflow-workflow
 
 Compliler le programme avec la dernière version de C++ :
 --------------------------------------------------------
-g++ -std=c++17 -Wall -Wextra -Werror main.cpp -o main
+g++ -std=c++2a -Wall -Wextra -Werror main.cpp -o main
 
 A faire :
 ---------

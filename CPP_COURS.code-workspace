@@ -19,7 +19,7 @@
         "splitTerminals": [
           {
             "name": "Compil Cours",
-            "commands": ["g++ -std=c++17 -Wall -Wextra -Werror main.cpp -o main"]
+            "commands": ["g++ -std=c++2a -Wall -Wextra -Werror main.cpp -o main"]
           }
         ]
       },

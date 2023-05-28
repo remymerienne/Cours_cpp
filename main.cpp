@@ -2,6 +2,7 @@
   #1. Affichage console et sorties standards
   #2. Les variables
   #3. Saisie utilisateur
+  #4. Opérateurs
 */
 
 /*
@@ -122,5 +123,30 @@ int main()
   // Affichage des saisies
   std::cout << "Nombre saisi : " << number << std::endl;
   std::cout << "Votre nom complet est : " << mon_nom_complet << std::endl;
+
+  // #4. Opérateurs
+  // **************
+
+  /*
+    Opérateurs         : + - * / %
+    Booléens           : ! && ||
+    Comparaison        : < > <= >= == !=
+    Divers             : += -= *= /= %= ++ --
+    Pré-incrémentation : ++variable --variable
+  */
+
+  int result{22 + 3};
+
+  std::cout << "Résultat : " << result << std::endl;
+
+  result += 1;
+
+  std::cout << "Résultat : " << result << std::endl;
+  
+  result --;
+
+  std::cout << "Résultat : " << result << std::endl;
+
+  return 0;
 
 }
