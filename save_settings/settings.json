@@ -31,7 +31,7 @@
 
   // Réglages généraux de l'éditeur
   "editor.fontSize": 14,
-  "editor.tabSize": 2,
+  "editor.tabSize": 4,
   "editor.wordWrap": "on",
   "editor.detectIndentation": false,
   "editor.minimap.enabled": true,
